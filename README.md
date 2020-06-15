@@ -1,2 +1,6 @@
 # testrepo
-Az újrakezdés program tanulásához kell
+vásárolni kenyer
+vásárolni lap
+vásárolni tej
+venni turo
+
